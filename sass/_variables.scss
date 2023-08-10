@@ -1,0 +1,36 @@
+/***********************************************
+			      Fonts
+************************************************/
+$title-font: 'Integral CF', sans-serif;
+$text-font: 'Rawline', sans-serif;
+
+// The base size is 18px
+$title-1: 3.333rem; // 60px
+$title-2: 2.5rem; // 45px
+$title-3: 1.95rem; // 35px
+$title-4: 1.666rem; // 30px
+$title-5: 1.39rem; // 25px
+$title-6: 1.111rem; // 20px
+
+$normal: 1rem; // 18px
+$small: 0.88rem; // 16px
+$huge: 4.5rem; // 81px
+
+
+/***********************************************
+			      Colors
+************************************************/
+$main-col: #e6b571; // yellow
+$main-col-d: #896f4c; // dark-yellow
+
+$sec-col-d: #211c38; // dark purple
+$sec-col-m: #4c485e; // medium purple
+$sec-col-l: #7a788e; // light purple
+$sec-col-b: #7f41a5; // bright purple
+$sec-col-bd: #33234E; // bright purple dark
+
+$white: #fff;
+$light: #bbb;
+
+$dark-gradient: linear-gradient(180deg, rgba(33,28,56,1) 0%, rgba(33,28,56,0) 150%); 
+$dark-gradient-2: linear-gradient(180deg, rgba(33,28,56,1) 0%, rgba(33,28,56,0) 300%); 
